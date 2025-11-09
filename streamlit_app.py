@@ -63,7 +63,7 @@ st.markdown("""
 }
 
 .interactive-card:hover {
-    transform: scale(1.05);
+    transform: scale(2);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
     cursor: pointer;
 }
